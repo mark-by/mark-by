@@ -6,4 +6,11 @@
 
 ### This week I spent my time on:
 <!--START_SECTION:waka-->
+```text
+Python   9 hrs           ████████████▒░░░░░░░░░░░░   48.77 % 
+C++      4 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+C        2 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Go       1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+CMake    32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+```
 <!--END_SECTION:waka-->
