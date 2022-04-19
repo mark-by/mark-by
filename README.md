@@ -8,14 +8,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mark-by&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-by&exclude_repo=Pharmacy&langs_count=8&layout=compact&theme=dracula"/>
 </p>
-
-### This week I spent my time on:
-<!--START_SECTION:waka-->
-```text
-C++        8 hrs 20 mins   █████████░░░░░░░░░░░░░░░░   36.63 % 
-Python     6 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Go         3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Markdown   1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-SQL        53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-```
-<!--END_SECTION:waka-->
