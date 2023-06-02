@@ -2,9 +2,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BC%D0%B0%D1%80%D0%BA-%D0%B1%D1%8B%D1%85%D0%BE%D0%B2%D0%B5%D1%86-b0a06b1b4/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mark.bykhovets/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mark_by)
-
-### My GitHub Stats:
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mark-by&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark-by&exclude_repo=Pharmacy&langs_count=8&layout=compact&theme=dracula"/>
-</p>
